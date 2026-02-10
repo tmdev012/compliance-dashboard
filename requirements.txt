@@ -1,0 +1,7 @@
+fastapi>=0.100
+uvicorn[standard]
+httpx>=0.25
+pydantic>=2.0
+python-dotenv
+sqlalchemy
+PyGithub>=2.0
